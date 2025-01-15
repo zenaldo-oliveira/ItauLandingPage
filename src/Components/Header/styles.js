@@ -18,7 +18,7 @@ export const ContainerItens = styled.div`
   justify-content: space-between;
   height: 100%;
   max-width: 1246px;
-  padding: 0 50px;
+  padding: 0 15px;
   margin: 0 auto;
 `;
 
@@ -33,8 +33,8 @@ export const ul = styled.ul`
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 50px;
-  cursor: pointer;
+  gap: 40px;
+  margin: 0 20px 0 0;
 `;
 
 export const li = styled.li`

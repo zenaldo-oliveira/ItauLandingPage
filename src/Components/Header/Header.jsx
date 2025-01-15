@@ -1,7 +1,9 @@
 import React from 'react';
+import IconUser from "../../assets/icon-user.svg";
 
-import IconUser from "../assets/icon-user.svg";
-import LogoItau from "../assets/logo.svg";
+
+import LogoItau from "../../assets/logo.svg";
+
 import ItemMenu from './ItemMenu';
 import * as S from "./styles";
 
